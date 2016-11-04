@@ -14,5 +14,6 @@ public class MathUtil {
     public static void main(String args[]){
 
         System.out.print("3 + 9 = "+add(3,9));
+        System.out.print("21 - 14 ="+minus(21,14));
     }
 }
